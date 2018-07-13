@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/01NewIntroLevel.unity
+    guid: f76ed785c77ef254187402f887113bf4
+  - enabled: 1
+    path: Assets/Scenes/02SceneForPlaytest.unity
+    guid: 6c739be6be9a7194ca20e076ebc69241
+  - enabled: 1
+    path: Assets/Scenes/00Main_Menu.unity
+    guid: 7bfadbac015a87a4e85d7a3e48807bd9
+  - enabled: 1
+    path: Assets/Scenes/TestScene.unity
+    guid: 5b015736a7ca20d44b4a842531603451
+  - enabled: 0
+    path: 
+    guid: 62ece9f73b622d54c96de8da641fd1e6
+  - enabled: 0
+    path: 
+    guid: 74ea8c2e9d126294b82e04a3514980da
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 74ea8c2e9d126294b82e04a3514980da
+  - enabled: 0
+    path: Assets/Scenes/PrefabGallery_Tobias.unity
+    guid: 85a37abd7a63ba448a726d239fef9db8
